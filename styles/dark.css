@@ -16,6 +16,8 @@
   --main-title-color: #db00ff;
   --title-color: #000028;
   --button-hover: #ff007066;
+  --shadow-color: #FF0070;
+  --title-bg-color: #FF0070;
 }
 
 :root.theme-dark .rec {

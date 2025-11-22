@@ -12,6 +12,8 @@
   --title-color: #000028;
   --font-family: IBM Plex mono, monospace;
   --button-hover: #ff007066;
+  --shadow-color: #FF0070;
+  --title-bg-color: #FF0070;
 }
 
 @media (min-width: 768px) {
